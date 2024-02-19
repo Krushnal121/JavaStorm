@@ -30,7 +30,7 @@ git clone https://github.com/Krushnal121/JavaStorm.git
 ## Connect with Us
 
 Join the JavaStorm community on social media and share your coding adventures using #JavaStorm and #CodeAdventures. Your journey matters!
-- Email: <a href="mailto:email@example.com">krushnalpatil1111@gmail.com</a>
+- Email: <a href="mailto:krushnalpatil1111@gmail.com">krushnalpatil1111@gmail.com</a>
 - linkedin: <a href="https://www.linkedin.com/in/krushnal-jagannath-patil/" target="_blank">@krushnal-jagannath-patil</a>
 - Instagram: <a href="https://www.instagram.com/krushnal_patil_111/" target="_blank">@krushnal_patil_111</a>
 - Web: <a href="https://bento.me/krushnalpatil" target="_blank">bento.me/krushnalpatil </a>
